@@ -1,6 +1,6 @@
 Here's a sample `README.md` file for your bootloader OS project:
 
-```markdown
+
 # Simple Bootloader OS
 
 This project is a simple bootloader operating system implemented in x86 assembly language. It demonstrates basic input/output operations, including displaying messages, capturing user input, and clearing the screen.
